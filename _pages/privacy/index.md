@@ -25,7 +25,7 @@ Cloudflare Web Analytics に関する詳細は、[Cloudflare の利用規約](ht
 
 本プライバシポリシーは予告なく変更される可能性がございます。
 変更後のプライバシーポリシーは、本ページへの掲載時に効力を発します。
-なお、本プライバシーポリシーの改訂履歴は [GitHub](https://github.com/yutasyndrome/project-thelxie-contents/commits/main/_pages/privacy) で確認することができます。
+なお、本プライバシーポリシーの改訂履歴は [GitHub](https://github.com/yutasyndrome/project-thelxie-contents/commits/main/_pages/privacy/index.md) で確認することができます。
 
 ## お問い合わせ先
 
